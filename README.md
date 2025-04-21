@@ -19,7 +19,7 @@ A simple calculator written and tested entirely using Termux on Android.
 
 ---
 
-### 4. **Prompt Engineering Practice (LLMs)**
+### 2. **Prompt Engineering Practice (LLMs)**
 A markdown collection of prompt testing ideas, response analysis, and use-cases.
 
 
